@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* .daysWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid gray;
+  width: 350px;
+}
+
+.day {
+  border: 1px solid lightgray;
+  box-sizing: border-box;
+  width: 50px;
+}
+
+.gray {
+  color: lightgray;
+} */
